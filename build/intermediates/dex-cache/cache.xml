@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin_alan\AndroidStudioProjects\iPal-Demo-RobotVoiceDemo2\RobotVoiceDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="C:\Users\admin_alan\AndroidStudioProjects\iPal-Demo-RobotVoiceDemo2\RobotVoiceDemo\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0_4fc75d739d3d9c2445bd1743c6f1504e94733635.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin_alan\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\23.1.0\92e3fc113ec3ee36b64603a38857b95700025633\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="C:\Users\admin_alan\AndroidStudioProjects\iPal-Demo-RobotVoiceDemo2\RobotVoiceDemo\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0_2cece7787565aeff8817cdb3d37539d0f4e527c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\admin_alan\AndroidStudioProjects\iPal-Demo-RobotVoiceDemo2\RobotVoiceDemo\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="C:\Users\admin_alan\AndroidStudioProjects\iPal-Demo-RobotVoiceDemo2\RobotVoiceDemo\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.0_2cfe03a07fc31dda6f0cb687a3c27f952d9cdc61.jar" />
+    </item>
+
+</items>
